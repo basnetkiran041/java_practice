@@ -19,4 +19,4 @@ class myClass
         display();
         System.out.println("Accessing private value of a :" +a);
     }
-}
+} 
