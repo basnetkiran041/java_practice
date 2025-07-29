@@ -26,11 +26,11 @@ public class getter_setter {
         getter_setter a = new getter_setter();
         a.setAuthor("Haruki Murakami");
         a.setBook("Norweign wood");
-        System.out.println(a.getAuthor()  + "and" +  a.getBook());
+        System.out.println(a.getAuthor()  + "  "+"and" +"  "  +a.getBook());
 
     
 
         
     }
-    
 }
+    
